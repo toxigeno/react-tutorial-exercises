@@ -102,7 +102,7 @@
         {
             "slug": "02-maping-array-to-li",
             "title": "02-maping-array-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02-maping-array-to-li",
             "translations": [
                 "es",
